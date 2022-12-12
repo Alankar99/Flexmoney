@@ -1,0 +1,20 @@
+FlexMoneyAssignment Yoga Admission Form
+
+Registration Page
+User need to fill their basic details, based on validations
+and click on Pay button
+
+Database
+After successful payment, user data will be stored in the database.
+Database store all information after payment.
+Important Assumptions made
+1) Email ID will be the primary key.
+2)By clicking on Payment button, payment will be successful.
+3)The validation is done for the registration page only.
+
+Step to run the project
+Clone the repo.
+Intall node, express, mongoDB.
+Install dependencies mention in package.json file.
+Run mongoDB.
+Run command "node server.js"
